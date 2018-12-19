@@ -1,5 +1,5 @@
 # Kirby-Air-Ride-Unity
-An attempt a cloning Kirby Air Ride for the Gamecube. 
+An attempt at cloning Kirby Air Ride for the Gamecube. 
 
 Made over a few days as a project for school. Currently very bug ridden and computer dependent as to how well it wants to run.
 
