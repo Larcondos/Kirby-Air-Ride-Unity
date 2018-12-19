@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 31.999999 31.999998"
+   id="svg4688"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="tex1_32x32_c3ac65bf337071e3_0.svg"
+   inkscape:export-filename="D:\Andrew\Documents\Dolphin Emulator\Load\Textures\GKYE01\Guitar_Bro's Textures\Menu\PNG\tex1_32x32_c3ac65bf337071e3_0.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360">
+  <defs
+     id="defs4690" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="12.27702"
+     inkscape:cy="18.793406"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5247" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4693">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)"
+     style="display:none">
+    <image
+       y="1020.3622"
+       x="0"
+       id="image5290"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGHRFWHRUaXRsZQBEb2xwaGluIFNj
+cmVlbnNob3SqDw0UAAABIklEQVRYhe2W0W3EIAyGadUFvIJnSWbJCGQEz5BVzCpmBDMCfblICJGD
+O0hOVfM/RZZlvtjG2Jj/rq+aAxFRbnMPnYOUKRZUgnpX36MC3QA3wJ8F+BkdEADAWmtT27qu6yUA
+iIjMzIiIxhjjvffzPM9dQVsHERGRqmrqAwDQdXgrABHRWZPyKQAAADPzbldVnaZpGnb4MwBERBGR
+3SYistf+dAB56LS01wBKUlW9LANHYma+BEBEJL1yqS5rwvzqpaUYcv9rAMYYc5SFVxry5ccohBD2
+723btpKPtdYOK0XtD9NBlPdJS/zu53hZlqVkR0QcMhtaanzUkDHG2D0bWgAAAPLJ2FqKIRtRCCG8
+W4rqQlJaKLz3Prc551z38nHrE/oFL6CG/lXLx+8AAAAASUVORK5CYII=
+"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="31.999996"
+       width="31.999996" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="new">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 7.999999,1.9999998 0,26.9999972 5.999999,0 0,-8.999999 5,8.999999 6.999999,0 -7.199999,-12.499999 6.199999,-6.4999992 -4,0 -6.999999,6.9999992 0,-14.9999982 z"
+       id="path5293"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+</svg>
